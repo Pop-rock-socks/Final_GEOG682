@@ -14,7 +14,7 @@ results and make a decision themselves.
 
 ## Analysis
 
-Data selected:
+###Data selected:
 
 Crimes reported in 2017 - This dataset compiles the crimes for the year 2017 from the ASAP (Analytical Services Application) crime 
 report
@@ -25,11 +25,11 @@ Wards in 2012 - This is a compiled boundary of the wards from 2012 from the DC o
 Shotspotter Gun shots - This is a compiled result of t he shotspotter acoustic sensors throughout the coverage area in the District of 
 Columbia, This is based on triangualtions of 3 sensors to detect locational whereabouts of gunfires to notify law enforcement. 
 
-Two Maps:
+###Two Maps:
 I created my maps by overlaying the actualy crime data on top of chloropleth maps of crimes per 10,000 people. This allows visualization 
 of the crime itself alongside the totals present in each distrct in comparison with neighboring ward classes. 
 
-Crimes reported by police:
+###Crimes reported by police:
 ![](Crime 2017 Gunshots.jpeg)
 
 Ward 1 - 620 Gunshots per 10k 
@@ -41,7 +41,7 @@ Ward 6 - 724 gunshots per 10k
 Ward 7 - 600 gunshots per 10k
 Ward 8 - 465 gunshots per 10k
 
-Crimes Detected by spotshotter:
+###Crimes Detected by spotshotter:
 ![](Shotspotter 2017.jpeg)
 
 Ward 1 - 210 gunshots per 10k
