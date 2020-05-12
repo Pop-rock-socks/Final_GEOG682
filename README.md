@@ -29,4 +29,4 @@ Two Maps:
 I created my maps by overlaying the actualy crime data on top of chloropleth maps of crimes per 10,000 people. This allows visualization 
 of the crime itself alongside the totals present in each distrct in comparison with neighboring ward classes. 
 
-![](Crime 2017 gunshots.jpeg)
+![](images/Crime 2017 gunshots.jpeg)
