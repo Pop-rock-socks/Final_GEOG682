@@ -32,9 +32,12 @@ of the crime itself alongside the totals present in each distrct in comparison w
 ###Crimes reported by police:
 ![](Crime 2017 Gunshots.jpeg)
 
-Ward 1 - 620 Gunshots per 10k 
+Ward 1 - 620 Gunshots per 10k
+
 Ward 2 - 776 gunshots per 10k
+
 Ward 3 - 200 gunshots per 10k
+
 Ward 4 - 381 gunshots per 10k
 Ward 5 - 644 gunshots per 10k
 Ward 6 - 724 gunshots per 10k
