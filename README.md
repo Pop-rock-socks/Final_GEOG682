@@ -39,19 +39,41 @@ Ward 2 - 776 gunshots per 10k
 Ward 3 - 200 gunshots per 10k
 
 Ward 4 - 381 gunshots per 10k
+
 Ward 5 - 644 gunshots per 10k
+
 Ward 6 - 724 gunshots per 10k
+
 Ward 7 - 600 gunshots per 10k
+
 Ward 8 - 465 gunshots per 10k
+
+
 
 ###Crimes Detected by spotshotter:
 ![](Shotspotter 2017.jpeg)
 
 Ward 1 - 210 gunshots per 10k
+
 Ward 2 - 7 gunshots per 10k
+
 Ward 3 - 0 gunshots per 10k
+
 Ward 4 - 365 gunshots per 10k
+
 Ward 5 - 521 gunshots per 10k
+
 Ward 6 - 299 gunshots per 10k
+
 Ward 7 - 1352 gunshots per 10k
+
 Ward 8 - 1773 gunshots per 10k
+
+##Automation
+
+In order to support the districts ongoing determination of which ward would be best for expanded coverage of the Shotspotter, it is imperative to automate this process for the  seamless analysis by DC Police officials. 
+
+processing.run("qgis:joinbylocationsummary",{'INPUT':WardsDC,'JOIN':CrimeDC,'PREDICATE':1,'SUMMARIES':0,'OUTPUT':"S:/682/Spring20/rklara/Final Project/682_final_data/Crime_Wardsjoin.shp"})
+
+processing.run("qgis:joinbylocationsummary",{'INPUT':WardsDC,'JOIN':ShotspotterDC,'PREDICATE':1,'SUMMARIES':0,'OUTPUT':"S:/682/Spring20/rklara/Final Project/682_final_data/Shotspotter_Wardsjoin.shp"})
+
