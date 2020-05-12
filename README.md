@@ -29,4 +29,26 @@ Two Maps:
 I created my maps by overlaying the actualy crime data on top of chloropleth maps of crimes per 10,000 people. This allows visualization 
 of the crime itself alongside the totals present in each distrct in comparison with neighboring ward classes. 
 
-![]('Crime 2017 Gunshots.jpeg')
+Crimes reported by police:
+![](Crime 2017 Gunshots.jpeg)
+
+Ward 1 - 620 Gunshots per 10k 
+Ward 2 - 776 gunshots per 10k
+Ward 3 - 200 gunshots per 10k
+Ward 4 - 381 gunshots per 10k
+Ward 5 - 644 gunshots per 10k
+Ward 6 - 724 gunshots per 10k
+Ward 7 - 600 gunshots per 10k
+Ward 8 - 465 gunshots per 10k
+
+Crimes Detected by spotshotter:
+![](Shotspotter 2017.jpeg)
+
+Ward 1 - 210 gunshots per 10k
+Ward 2 - 7 gunshots per 10k
+Ward 3 - 0 gunshots per 10k
+Ward 4 - 365 gunshots per 10k
+Ward 5 - 521 gunshots per 10k
+Ward 6 - 299 gunshots per 10k
+Ward 7 - 1352 gunshots per 10k
+Ward 8 - 1773 gunshots per 10k
