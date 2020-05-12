@@ -16,7 +16,8 @@ results and make a decision themselves.
 
 Data selected:
 
-Crimes reported in 2017 - This dataset compiles the crimes for the year 2017 from the ASAP (Analytical Services Application) crime report
+Crimes reported in 2017 - This dataset compiles the crimes for the year 2017 from the ASAP (Analytical Services Application) crime 
+report
 database from the  DC Metropolitan Police Department (MPD) from opendata.dc.gov
 
 Wards in 2012 - This is a compiled boundary of the wards from 2012 from the DC opendata.dc.gov
