@@ -26,6 +26,7 @@ Shotspotter Gun shots - This is a compiled result of t he shotspotter acoustic s
 Columbia, This is based on triangualtions of 3 sensors to detect locational whereabouts of gunfires to notify law enforcement. 
 
 Two Maps:
-I created my maps by overlaying the actualy crime data on top of chloropleth maps of crimes per 10,000 people. Thsi allows visualization 
+I created my maps by overlaying the actualy crime data on top of chloropleth maps of crimes per 10,000 people. This allows visualization 
 of the crime itself alongside the totals present in each distrct in comparison with neighboring ward classes. 
 
+![](Crimes_in_2017.jpeg)
